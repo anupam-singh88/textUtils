@@ -66,7 +66,7 @@ export default function App() {
         <Navbar mode={mode} title='TextUtils' toggleMode={toggleMode} textStyle={textStyle} />
         <Alert alert={alert} />
         <Routes>
-          <Route path='/' element={<Home toggleMode={toggleMode} mode={mode} bodyStyle={bodyStyle} showAlert={showAlert} />} />
+          <Route path='/textUtils' element={<Home toggleMode={toggleMode} mode={mode} bodyStyle={bodyStyle} showAlert={showAlert} />} />
           <Route path='/about' element={<About />} />
 
         </Routes>
