@@ -1,8 +1,27 @@
-# React + Vite
+# TextUtils
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+TextUtils is a simple text formatting web application built with React.js. It removes extra spaces, clears the text, copies the text, and converts it to uppercase and lowercase. It also includes a dark mode for ease of use in different lighting conditions. The application is deployed on Firebase.
 
-Currently, two official plugins are available:
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- React.js
+- React Router
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Text formatting: remove extra spaces, clear text, copy text, convert to uppercase and lowercase
+- Dark mode for better visibility in different lighting conditions
+- Deployed on Firebase for easy access
+
+## How to Use
+1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the application.
+5. Open your browser and go to `http://localhost:3000`.
+6. Use the application to format your text as needed.
+
+## URL
+https://text-utils-710fb.web.app/
