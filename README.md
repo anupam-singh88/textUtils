@@ -1,5 +1,10 @@
 # TextUtils
 
+## URL
+https://text-utils-710fb.web.app/
+
+![image](https://github.com/anupam-singh88/textUtils/assets/89381022/4e65439c-c82e-4e64-bee7-564c67a264a9)
+
 ## Description
 TextUtils is a simple text formatting web application built with React.js. It removes extra spaces, clears the text, copies the text, and converts it to uppercase and lowercase. It also includes a dark mode for ease of use in different lighting conditions. The application is deployed on Firebase.
 
@@ -23,5 +28,3 @@ TextUtils is a simple text formatting web application built with React.js. It re
 5. Open your browser and go to `http://localhost:3000`.
 6. Use the application to format your text as needed.
 
-## URL
-https://text-utils-710fb.web.app/
