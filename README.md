@@ -18,7 +18,7 @@ TextUtils is a simple text formatting web application built with React.js. It re
 ## Features
 - Text formatting: remove extra spaces, clear text, copy text, convert to uppercase and lowercase
 - Dark mode for better visibility in different lighting conditions
-- Deployed on Firebase for easy access
+- Deployed on Netlify for easy access
 
 ## How to Use
 1. Clone this repository to your local machine.
