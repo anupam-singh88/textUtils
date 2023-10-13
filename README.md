@@ -1,7 +1,7 @@
 # TextUtils
 
 ## URL
-[https://text-utils-710fb.web.app/](https://text-util-react.netlify.app/)
+https://text-util-react.netlify.app
 
 ![image](https://github.com/anupam-singh88/textUtils/assets/89381022/4e65439c-c82e-4e64-bee7-564c67a264a9)
 
